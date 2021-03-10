@@ -2,7 +2,7 @@
 The Braille Recognition project is a desktop app prototype. 
 Braille letters images is captured using a scanner and the extension format in .bmp, .png, and .jpg . 
 The output of this program is a word in alphabetic form and proununciation voice of the words.
-In codes, proununciation voice process using gtts library. 
+In codes, the proununciation voice process using gtts library and the programming language is python.
 
 *Due to it is my thesis project, i will not share my codes. But, i will describe it by running my program.*
 
